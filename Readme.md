@@ -20,7 +20,7 @@ These instructions will help you set up and run the project on your local machin
 1. Clone the repository:
 
     ```bash
-    git clone git@github.com:salamat9/ximxim.git
+    git clone git@github.com:salamat9/xim_tech_task.git
     ```
 
 2. Navigate to the project directory:
